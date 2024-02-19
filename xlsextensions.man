@@ -1,0 +1,21 @@
+.\" xlsextensions.man
+.\" Copyright 2024 Peter Tribble
+.\"
+.TH XLSEXTENSIONS 1 "February 19, 2024" "X Version 11"
+.SH NAME
+xlsextensions \- display information utility for X
+.SH SYNOPSIS
+.B "xlsextensions"
+[\-display \fIdisplayname\fP]
+.SH DESCRIPTION
+.I Xlsextensions
+is a simple utility for displaying the available extensions present in
+an X server.
+.SH ENVIRONMENT
+.TP 8
+.B DISPLAY
+To get the default host, display number, and screen.
+.SH "SEE ALSO"
+X(1), xwininfo(1), xdpyinfo(1), xlsvisuals(1), xprop(1), xrdb(1)
+.SH AUTHOR
+Peter Tribble
