@@ -4,7 +4,7 @@
  * stripped down version of xdpyinfo. Original copyright notice:
  * $TOG: xdpyinfo.c /main/35 1998/02/09 13:57:05 kaleb $
  * 
- * xdpyinfo - print information about X display connecton
+ * xlsextensions - print information about X display extensions
  *
  * 
 Copyright 1988, 1998  The Open Group
